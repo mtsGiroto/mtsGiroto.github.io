@@ -35,9 +35,10 @@
   }
 
   .empresa:hover {
-    -webkit-transform: scale(1.2);
-    -ms-transform: scale(1.2);
-    transform: scale(1.2);
+    -webkit-transform: scale(1.02);
+    -ms-transform: scale(1.02);
+    transform: scale(1.05);
+    transition: 800ms;
   }
 
   .empresa::before {
